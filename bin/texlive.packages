@@ -1,3 +1,4 @@
 latexmk
 scheme-minimal
 latex-bin
+scrartcl
