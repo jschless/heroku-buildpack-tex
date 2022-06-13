@@ -8,3 +8,8 @@ csquotes
 datetime
 pgf
 graphics
+fmtcount
+base
+xkeyval
+amsmath
+xcolor
