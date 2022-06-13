@@ -3,3 +3,4 @@ scheme-minimal
 latex-bin
 fontspec
 koma-script
+etoolbox
