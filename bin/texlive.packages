@@ -8,7 +8,5 @@ csquotes
 datetime
 pgf
 graphics
-base
-keyval
 amsmath
 xcolor
