@@ -2,3 +2,4 @@ latexmk
 scheme-minimal
 latex-bin
 fontspec
+koma-script
