@@ -16,3 +16,7 @@ background
 everypage
 tools
 enumitem
+setspace
+iftex
+booktabs
+microtype
