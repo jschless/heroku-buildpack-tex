@@ -12,3 +12,7 @@ amsmath
 xcolor
 fmtcount
 xkeyval
+background
+everypage
+tools
+enumitem
