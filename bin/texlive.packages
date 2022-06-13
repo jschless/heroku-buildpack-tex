@@ -4,3 +4,4 @@ latex-bin
 fontspec
 koma-script
 etoolbox
+csquotes
