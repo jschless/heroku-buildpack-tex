@@ -1,4 +1,3 @@
-environ
 latexmk
-collection-fontsextra
-collection-xetex
+scheme-minimal
+latex-bin
