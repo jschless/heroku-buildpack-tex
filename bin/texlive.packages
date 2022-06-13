@@ -11,3 +11,5 @@ graphics
 amsmath
 xcolor
 fmtcount
+keyval
+xkeyval
