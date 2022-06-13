@@ -1,0 +1,4 @@
+environ
+latexmk
+collection-fontsextra
+collection-xetex
