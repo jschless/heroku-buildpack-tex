@@ -19,6 +19,7 @@ fi
 
 # Optional: use custom path to texlive installer
 if [ -f "$BUILD_DIR/texlive.repository" ]; then
+    build-step "Installing custom texlive repository..."
     TEXLIVE_REPOSITORY=$(cat "$BUILD_DIR/texlive.repository")
 fi
 
