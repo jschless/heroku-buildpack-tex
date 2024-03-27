@@ -1,5 +1,7 @@
 # TeX Live buildpack for Heroku
 
+I customized this existing Heroku buildpack to run a few extra TeX packages for my [https://github.com/jschless/armymarkdown](armymarkdown website).
+
 [![Build Status](https://travis-ci.org/Thermondo/heroku-buildpack-tex.svg?branch=master)](https://travis-ci.org/Thermondo/heroku-buildpack-tex)
 [![Latest Release](https://img.shields.io/github/tag/Thermondo/heroku-buildpack-tex.svg)](https://github.com/Thermondo/heroku-buildpack-tex/releases)
 
